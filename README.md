@@ -1,2 +1,2 @@
 # Semana OmniStack 5 - GoTwitter
-Aplicação desenvolvida utilizando NodeJs no Backend, ReactJs no Frontend Web e React Native na versão móvel.
+Aplicação desenvolvida utilizando NodeJs no Backend, ReactJs no Frontend e React Native na versão móvel.
